@@ -40,7 +40,7 @@ echo The files are placed where they are ment to be.
 
 echo Copying the Config ...
 
-mkdir "%useprofile%\Documents\My Games\GZDoom\gzdoom.ini"
+mkdir "%useprofile%\Documents\My Games\GZDoom"
 copy "%cd%\gzdoom.ini" "%userprofile%\Documents\My Games\GZDoom\gzdoom.ini"
 
 echo Making the shortcut ...
